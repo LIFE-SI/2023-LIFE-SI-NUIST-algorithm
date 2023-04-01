@@ -8,3 +8,4 @@
 
 ------实验内容--更新中---------------------------
 
+[实验1](https://github.com/WSXNH/2023-NUIST---OJ--/blob/main/%E5%AE%9E%E9%AA%8C1-N%E7%9A%87%E5%90%8E.md)
