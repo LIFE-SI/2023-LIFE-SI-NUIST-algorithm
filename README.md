@@ -12,4 +12,6 @@
 
 [实验2-逆序对](https://github.com/WSXNH/2023-WSXNH-NUIST-algorithm/blob/main/%E5%AE%9E%E9%AA%8C2-%E9%80%86%E5%BA%8F%E5%AF%B9.md)
 
+[实验3-智力大冲浪](https://github.com/LIFE-SI/2023-LIFE-SI-NUIST-algorithm/blob/main/%E5%AE%9E%E9%AA%8C3-%E6%99%BA%E5%8A%9B%E5%A4%A7%E5%86%B2%E6%B5%AA.md)
 
+[实验4-WZY的跑步](https://github.com/LIFE-SI/2023-LIFE-SI-NUIST-algorithm/blob/main/%E5%AE%9E%E9%AA%8C4-WZY%E7%9A%84%E8%B7%91%E6%AD%A5.md)
