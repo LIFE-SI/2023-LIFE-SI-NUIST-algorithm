@@ -105,7 +105,7 @@ int main()
 }
 ```
 
-![img](https://p.ananas.chaoxing.com/star3/origin/0f56ffadd077a4e732cc653efe2e6c81.png)
+![image](https://user-images.githubusercontent.com/95600943/236593591-5b1318a8-ecac-43c2-a507-9683d59c4984.png)
 
 ## 4．分析与讨论（算法时间复杂度分析和讨论）
 
