@@ -1,12 +1,8 @@
 # 2023-NUIST-OJ-实验-algorithm 
 2023算法设计与分析—OJ—实验
-> 勿抄袭，可AC，勿抄袭!参考注意代码逻辑结构!
+> 可AC! 勿抄袭!!!
 
 > 任何问题请联系：LIFE-SI@163.com
-
-------最近一次更新-------2023.04.05------
-
-------实验内容--更新中---------------------------
 
 [实验1-n皇后](https://github.com/WSXNH/2023-NUIST---OJ--/blob/main/%E5%AE%9E%E9%AA%8C1-N%E7%9A%87%E5%90%8E.md)
 
@@ -17,3 +13,5 @@
 [实验4-WZY的跑步](https://github.com/LIFE-SI/2023-LIFE-SI-NUIST-algorithm/blob/main/%E5%AE%9E%E9%AA%8C4-WZY%E7%9A%84%E8%B7%91%E6%AD%A5.md)
 
 [实验5-B3445[Usaco2014Feb]Roadblock](https://github.com/LIFE-SI/2023-LIFE-SI-NUIST-algorithm/blob/main/%E5%AE%9E%E9%AA%8C5-B3445%5BUsaco2014Feb%5DRoadblock.md)
+
+结束更新------2023.05.06
